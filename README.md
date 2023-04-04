@@ -1,3 +1,5 @@
+# Descripcion
+Este proyecto presenta una tienda similar a Zara, hecha con full stack MEAN. Fue presentada como proyecto a la asignatura Arquitectura y sevicios telemáticos.
 # Tienda
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
